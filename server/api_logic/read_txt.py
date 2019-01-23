@@ -6,7 +6,10 @@ def read_tsv():
 	print(cwd)
 	with open(f'{cwd}/data/log.txt', 'r', encoding=None) as tsvin:
 		tsvin = csv.reader(tsvin, delimiter='\t')
+		log_list = []
 		for row in tsvin:
-			print(row)
+			log_list.append(row)
+		return log_list
 
-read_tsv()
+
+# read_tsv()
