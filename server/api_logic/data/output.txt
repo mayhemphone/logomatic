@@ -1,0 +1,966 @@
+03 410607   WITHOUT ME               200  3 01 25 19 00
+71          VOICETRACK               0    3 01 25 19 00
+03 410218   SICKO MODE               210  3 01 25 19 00
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 00
+03 890234   DANGEROUS WOMAN          210  3 01 25 19 00
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 00
+09 2        ********* EXCLUSIVE **** 0    3 01 25 19 00
+03 411420   NOTHING BREAKS LIKE A HE 210  3 01 25 19 00
+04 566709   ALL THE HITS             3    3 01 25 19 00
+03 408772   HIGH HOPES               189  3 01 25 19 00
+71          VOICETRACK               0    3 01 25 19 00
+03 410292   WAKE UP IN THE SKY       210  3 01 25 19 00
+04 566620   UC - LISTENER            8    3 01 25 19 00
+03 408817   GIRLS LIKE YOU           234  3 01 25 19 00
+04 566705   KISS SFX                 2    3 01 25 19 00
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 00
+03 410118   MY BLOOD                 215  3 01 25 19 00
+09 1        *** DROP SONG ***        0    3 01 25 19 00
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 00
+03 400917   SHAPE OF YOU             231  3 01 25 19 00
+04 566619   INTO STOPSET             7    3 01 25 19 00
+08          4 MIN Spotset                 4 01 25 19 00
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 00
+09 1        *** POWER INTRO          0    3 01 25 19 00
+03 3229410  BAD LIAR 1               250  3 01 25 19 00
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 00
+03 884924   GOOD FOR YOU REMIX       219  3 01 25 19 00
+04 566620   UC - LISTENER            8    3 01 25 19 00
+03 410329   THIS FEELING             195  3 01 25 19 00
+09 1        *** DROP SONG ***        0    3 01 25 19 00
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 00
+03 406824   WAIT                     185  3 01 25 19 00
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 00
+03 410682   SUNFLOWER                180  3 01 25 19 00
+71          VOICETRACK               0    3 01 25 19 00
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 00
+03 407045   CONSEQUENCES             173  3 01 25 19 00
+09 1        *** DROP SONG ***        0    3 01 25 19 00
+04 566705   KISS SFX                 2    3 01 25 19 00
+03 707785   DEAD AND GONE            230  3 01 25 19 00
+04 566720   CITY SWEEPERS            6    3 01 25 19 00
+03 411070   THANK U, NEXT            206  3 01 25 19 00
+04 566620   UC - LISTENER            8    3 01 25 19 00
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 00
+03 411777   DANCING WITH A STRANGER  210  3 01 25 19 00
+09 1        *** DROP SONG ***        0    3 01 25 19 00
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 00
+03 401393   BELIEVER                 203  3 01 25 19 00
+04 566619   INTO STOPSET             7    3 01 25 19 00
+08          4 MIN Spotset                 4 01 25 19 00
+04 566600   KBKS LEGAL               10   3 01 25 19 00
+03 409505   EASTSIDE                 171  3 01 25 19 01
+71          VOICETRACK               0    3 01 25 19 01
+03 410916   SWEET BUT PSYCHO         210  3 01 25 19 01
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 01
+03 3210753  CHANDELIER               222  3 01 25 19 01
+04 566620   UC - LISTENER            8    3 01 25 19 01
+03 411042   I FOUND YOU              191  3 01 25 19 01
+04 566709   ALL THE HITS             3    3 01 25 19 01
+03 410607   WITHOUT ME               200  3 01 25 19 01
+71          VOICETRACK               0    3 01 25 19 01
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 01
+03 411771   LOST IN THE FIRE         210  3 01 25 19 01
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 01
+03 404547   BrOKEN                   200  3 01 25 19 01
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 01
+03 3229055  BETTER                   217  3 01 25 19 01
+09 1        *** DROP SONG ***        0    3 01 25 19 01
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 01
+03 729282   TEAM                     192  3 01 25 19 01
+04 566619   INTO STOPSET             7    3 01 25 19 01
+08          4 MIN Spotset                 4 01 25 19 01
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 01
+09 1        *** POWER INTRO          0    3 01 25 19 01
+03 3229409  BAD LIAR 2               254  3 01 25 19 01
+04 566620   UC - LISTENER            8    3 01 25 19 01
+03 3210363  PROBLEM                  191  3 01 25 19 01
+04 566720   CITY SWEEPERS            6    3 01 25 19 01
+03 410928   CLOSE TO ME              180  3 01 25 19 01
+09 1        *** DROP SONG ***        0    3 01 25 19 01
+04 566705   KISS SFX                 2    3 01 25 19 01
+03 702545   SEXYBACK                 240  3 01 25 19 01
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 01
+03 408772   HIGH HOPES               189  3 01 25 19 01
+71          VOICETRACK               0    3 01 25 19 01
+03 411568   TAKI TAKI                210  3 01 25 19 01
+09 1        *** DROP SONG ***        0    3 01 25 19 01
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 01
+03 708439   ONLY GIRL (IN THE WORLD) 235  3 01 25 19 01
+04 566620   UC - LISTENER            8    3 01 25 19 01
+03 408348   YOUNGBLOOD               201  3 01 25 19 01
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 01
+03 409794   BEAUTIFUL                178  3 01 25 19 01
+09 1        *** DROP SONG ***        0    3 01 25 19 01
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 01
+03 404739   BAD AT LOVE              178  3 01 25 19 01
+04 566619   INTO STOPSET             7    3 01 25 19 01
+08          4 MIN Spotset                 4 01 25 19 01
+04 566600   KBKS LEGAL               10   3 01 25 19 01
+03 410682   SUNFLOWER                180  3 01 25 19 02
+71          VOICETRACK               0    3 01 25 19 02
+03 410329   THIS FEELING             195  3 01 25 19 02
+04 566705   KISS SFX                 2    3 01 25 19 02
+03 722576   LIGHT EM UP              187  3 01 25 19 02
+04 566620   UC - LISTENER            8    3 01 25 19 02
+03 3228910  ELECTRICITY              230  3 01 25 19 02
+04 566709   ALL THE HITS             3    3 01 25 19 02
+03 3228798  HAPPIER                  223  3 01 25 19 02
+71          VOICETRACK               0    3 01 25 19 02
+03 410292   WAKE UP IN THE SKY       210  3 01 25 19 02
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 02
+03 703422   I WRITE SINS NOT TRAGEDI 225  3 01 25 19 02
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 02
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 02
+03 410866   RUIN MY LIFE             187  3 01 25 19 02
+09 1        *** DROP SONG ***        0    3 01 25 19 02
+04 566720   CITY SWEEPERS            6    3 01 25 19 02
+03 3228381  BETTER NOW               198  3 01 25 19 02
+04 566619   INTO STOPSET             7    3 01 25 19 02
+08          4 MIN Spotset                 4 01 25 19 02
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 02
+09 1        *** POWER INTRO          0    3 01 25 19 02
+03 3229410  BAD LIAR 1               250  3 01 25 19 02
+04 566620   UC - LISTENER            8    3 01 25 19 02
+03 708745   S&M                      225  3 01 25 19 02
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 02
+03 410218   SICKO MODE               210  3 01 25 19 02
+09 1        *** DROP SONG ***        0    3 01 25 19 02
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 02
+03 701674   THNKS FR TH MMRS         225  3 01 25 19 02
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 02
+03 410607   WITHOUT ME               200  3 01 25 19 02
+71          VOICETRACK               0    3 01 25 19 02
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 02
+03 409907   8 LETTERS                186  3 01 25 19 02
+09 1        *** DROP SONG ***        0    3 01 25 19 02
+04 566705   KISS SFX                 2    3 01 25 19 02
+03 3226902  LET YOU DOWN             202  3 01 25 19 02
+04 566620   UC - LISTENER            8    3 01 25 19 02
+03 409977   BREATHIN'                180  3 01 25 19 02
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 02
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 02
+03 410118   MY BLOOD                 215  3 01 25 19 02
+09 1        *** DROP SONG ***        0    3 01 25 19 02
+04 566620   UC - LISTENER            8    3 01 25 19 02
+03 886721   SAME OLD LOVE            225  3 01 25 19 02
+04 566619   INTO STOPSET             7    3 01 25 19 02
+08          4 MIN Spotset                 4 01 25 19 02
+04 566600   KBKS LEGAL               10   3 01 25 19 02
+03 408772   HIGH HOPES               189  3 01 25 19 03
+71          VOICETRACK               0    3 01 25 19 03
+03 407045   CONSEQUENCES             173  3 01 25 19 03
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 03
+03 403598   I LIKE ME BETTER         196  3 01 25 19 03
+04 566720   CITY SWEEPERS            6    3 01 25 19 03
+09 2        ********* EXCLUSIVE **** 0    3 01 25 19 03
+03 411420   NOTHING BREAKS LIKE A HE 210  3 01 25 19 03
+04 566709   ALL THE HITS             3    3 01 25 19 03
+03 410682   SUNFLOWER                180  3 01 25 19 03
+71          VOICETRACK               0    3 01 25 19 03
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 03
+03 410916   SWEET BUT PSYCHO         210  3 01 25 19 03
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 03
+03 3226530  THUNDER                  236  3 01 25 19 03
+04 566620   UC - LISTENER            8    3 01 25 19 03
+03 410218   SICKO MODE               210  3 01 25 19 03
+09 1        *** DROP SONG ***        0    3 01 25 19 03
+04 566705   KISS SFX                 2    3 01 25 19 03
+03 403599   NEW RULES                206  3 01 25 19 03
+04 566619   INTO STOPSET             7    3 01 25 19 03
+08          4 MIN Spotset                 4 01 25 19 03
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 03
+09 1        *** POWER INTRO          0    3 01 25 19 03
+03 3229409  BAD LIAR 2               254  3 01 25 19 03
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 03
+03 3207936  THE MONSTER              257  3 01 25 19 03
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 03
+03 410928   CLOSE TO ME              180  3 01 25 19 03
+09 1        *** DROP SONG ***        0    3 01 25 19 03
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 03
+03 701672   SUGAR WE'RE GOING DOWN   215  3 01 25 19 03
+04 566620   UC - LISTENER            8    3 01 25 19 03
+03 409505   EASTSIDE                 171  3 01 25 19 03
+71          VOICETRACK               0    3 01 25 19 03
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 03
+03 407081   BODY                     180  3 01 25 19 03
+09 1        *** DROP SONG ***        0    3 01 25 19 03
+04 566705   KISS SFX                 2    3 01 25 19 03
+03 402580   THERE'S NOTHING HOLDIN'  197  3 01 25 19 03
+04 566720   CITY SWEEPERS            6    3 01 25 19 03
+03 411070   THANK U, NEXT            206  3 01 25 19 03
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 03
+03 411042   I FOUND YOU              191  3 01 25 19 03
+09 1        *** DROP SONG ***        0    3 01 25 19 03
+04 566620   UC - LISTENER            8    3 01 25 19 03
+03 3217689  HERE                     198  3 01 25 19 03
+04 566619   INTO STOPSET             7    3 01 25 19 03
+08          4 MIN Spotset                 4 01 25 19 03
+04 566600   KBKS LEGAL               10   3 01 25 19 03
+03 410607   WITHOUT ME               200  3 01 25 19 04
+71          VOICETRACK               0    3 01 25 19 04
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 04
+03 411771   LOST IN THE FIRE         210  3 01 25 19 04
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 04
+03 3226838  PERFECT                  259  3 01 25 19 04
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 04
+03 3229055  BETTER                   217  3 01 25 19 04
+04 566709   ALL THE HITS             3    3 01 25 19 04
+03 408772   HIGH HOPES               189  3 01 25 19 04
+71          VOICETRACK               0    3 01 25 19 04
+03 410292   WAKE UP IN THE SKY       210  3 01 25 19 04
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 04
+03 708358   JUST THE WAY YOU ARE     219  3 01 25 19 04
+04 566620   UC - LISTENER            8    3 01 25 19 04
+03 409794   BEAUTIFUL                178  3 01 25 19 04
+09 1        *** DROP SONG ***        0    3 01 25 19 04
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 04
+03 407487   LOVE LIES                198  3 01 25 19 04
+04 566619   INTO STOPSET             7    3 01 25 19 04
+08          4 MIN Spotset                 4 01 25 19 04
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 04
+09 1        *** POWER INTRO          0    3 01 25 19 04
+03 3229410  BAD LIAR 1               250  3 01 25 19 04
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 04
+03 3214592  HEY MAMA                 240  3 01 25 19 04
+04 566720   CITY SWEEPERS            6    3 01 25 19 04
+03 410329   THIS FEELING             195  3 01 25 19 04
+09 1        *** DROP SONG ***        0    3 01 25 19 04
+04 566705   KISS SFX                 2    3 01 25 19 04
+03 3221665  HEATHENS                 189  3 01 25 19 04
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 04
+03 410682   SUNFLOWER                180  3 01 25 19 04
+71          VOICETRACK               0    3 01 25 19 04
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 04
+03 411777   DANCING WITH A STRANGER  210  3 01 25 19 04
+09 1        *** DROP SONG ***        0    3 01 25 19 04
+04 566620   UC - LISTENER            8    3 01 25 19 04
+03 407395   FRIENDS                  202  3 01 25 19 04
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 04
+03 408348   YOUNGBLOOD               201  3 01 25 19 04
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 04
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 04
+03 409907   8 LETTERS                186  3 01 25 19 04
+09 1        *** DROP SONG ***        0    3 01 25 19 04
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 04
+03 401818   FEEL IT STILL            161  3 01 25 19 04
+04 566619   INTO STOPSET             7    3 01 25 19 04
+08          4 MIN Spotset                 4 01 25 19 04
+04 566600   KBKS LEGAL               10   3 01 25 19 04
+03 3228798  HAPPIER                  223  3 01 25 19 05
+71          VOICETRACK               0    3 01 25 19 05
+03 410218   SICKO MODE               210  3 01 25 19 05
+04 566620   UC - LISTENER            8    3 01 25 19 05
+03 712023   RADIOACTIVE              183  3 01 25 19 05
+04 566705   KISS SFX                 2    3 01 25 19 05
+03 3228910  ELECTRICITY              230  3 01 25 19 05
+04 566619   INTO STOPSET             7    3 01 25 19 05
+08          8 MIN Spotset                 4 01 25 19 05
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 05
+03 410607   WITHOUT ME               200  3 01 25 19 05
+71          VOICETRACK               0    3 01 25 19 05
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 05
+03 410118   MY BLOOD                 215  3 01 25 19 05
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 05
+03 408570   BACK TO YOU              206  3 01 25 19 05
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 05
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 05
+03 410916   SWEET BUT PSYCHO         210  3 01 25 19 05
+71          VOICETRACK               0    3 01 25 19 05
+03 3229409  BAD LIAR 2               254  3 01 25 19 05
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 05
+03 409977   BREATHIN'                180  3 01 25 19 05
+04 566619   INTO STOPSET             7    3 01 25 19 05
+08          8 MIN Spotset                 4 01 25 19 05
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 05
+03 410928   CLOSE TO ME              180  3 01 25 19 05
+04 566720   CITY SWEEPERS            6    3 01 25 19 05
+03 408772   HIGH HOPES               189  3 01 25 19 05
+04 566620   UC - LISTENER            8    3 01 25 19 05
+03 411568   TAKI TAKI                210  3 01 25 19 05
+04 566705   KISS SFX                 2    3 01 25 19 05
+03 707812   WHATCHA SAY              204  3 01 25 19 05
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 05
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 05
+03 407045   CONSEQUENCES             173  3 01 25 19 05
+04 566620   UC - LISTENER            8    3 01 25 19 05
+03 880244   UPTOWN FUNK!             230  3 01 25 19 05
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 05
+04 566619   INTO STOPSET             7    3 01 25 19 06
+08          8 MIN Spotset                 4 01 25 19 06
+04 566600   KBKS LEGAL               10   3 01 25 19 06
+20 0        DIRTY LITTLE SECRET      0    3 01 25 19 06
+71 99999    *** DLS 1 ***            240  3 01 25 19 06
+04 566619   INTO STOPSET             7    3 01 25 19 06
+08          8 MIN Spotset                 4 01 25 19 06
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 06
+03 410682   SUNFLOWER                180  3 01 25 19 06
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 06
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 06
+03 411771   LOST IN THE FIRE         210  3 01 25 19 06
+71 999999   *** SHOW OPEN ***        120  3 01 25 19 06
+09 1        *** DROP SONG ***        0    3 01 25 19 06
+03 408817   GIRLS LIKE YOU           234  3 01 25 19 06
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 06
+03 409505   EASTSIDE                 171  3 01 25 19 06
+04 566620   UC - LISTENER            8    3 01 25 19 06
+09 2        ********* EXCLUSIVE **** 0    3 01 25 19 06
+03 411420   NOTHING BREAKS LIKE A HE 210  3 01 25 19 06
+71 1000000  *** TALK BREAK ***       60   3 01 25 19 06
+04 566619   INTO STOPSET             7    3 01 25 19 06
+08          8 MIN Spotset                 4 01 25 19 06
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 06
+03 410607   WITHOUT ME               200  3 01 25 19 06
+09 1        *** DROP SONG ***        0    3 01 25 19 06
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 06
+03 407937   IN MY BLOOD              219  3 01 25 19 06
+04 566705   KISS SFX                 2    3 01 25 19 06
+09 1        *** POWER INTRO          0    3 01 25 19 06
+03 3229410  BAD LIAR 1               250  3 01 25 19 06
+09 1        *** DROP SONG ***        0    3 01 25 19 06
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 06
+03 3228130  LIE                      215  3 01 25 19 06
+09 1        *** DROP SONG ***        0    3 01 25 19 06
+04 566620   UC - LISTENER            8    3 01 25 19 06
+03 411070   THANK U, NEXT            206  3 01 25 19 06
+71 1000001  *** OPEN TALK BREAK ***  180  3 01 25 19 06
+03 408772   HIGH HOPES               189  3 01 25 19 07
+09 1        *** DROP SONG ***        0    3 01 25 19 07
+04 566600   KBKS LEGAL               10   3 01 25 19 07
+03 872869   TALK DIRTY               177  3 01 25 19 07
+71 1000002  *** SET UP HOUR/TEASE DL 120  3 01 25 19 07
+03 410329   THIS FEELING             195  3 01 25 19 07
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 07
+03 410682   SUNFLOWER                180  3 01 25 19 07
+20 0        DIRTY LITTLE SECRET      0    3 01 25 19 07
+71 1000003  *** DLS 2 ***            240  3 01 25 19 07
+09 1        *** DROP SONG ***        0    3 01 25 19 07
+03 404547   BrOKEN                   200  3 01 25 19 07
+04 566720   CITY SWEEPERS            6    3 01 25 19 07
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 07
+03 3228872  BE ALRIGHT               203  3 01 25 19 07
+09 1        *** DROP SONG ***        0    3 01 25 19 07
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 07
+03 3228381  BETTER NOW               198  3 01 25 19 07
+71 1000005  *** TALK BREAK 1.1 ***   180  3 01 25 19 07
+03 3228798  HAPPIER                  223  3 01 25 19 07
+04 566620   UC - LISTENER            8    3 01 25 19 07
+03 407487   LOVE LIES                198  3 01 25 19 07
+71 1000006  *** TALK BREAK 1.2 ***   120  3 01 25 19 07
+09 1        *** POWER INTRO          0    3 01 25 19 07
+03 3229409  BAD LIAR 2               254  3 01 25 19 07
+09 1        *** DROP SONG ***        0    3 01 25 19 07
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 07
+03 3218302  LOVE YOURSELF            235  3 01 25 19 07
+71 1000007  *** TALK BREAK 1.3 ***   240  3 01 25 19 07
+03 410607   WITHOUT ME               200  3 01 25 19 07
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 07
+03 3229055  BETTER                   217  3 01 25 19 07
+09 1        *** DROP SONG ***        0    3 01 25 19 07
+04 566705   KISS SFX                 2    3 01 25 19 07
+03 408348   YOUNGBLOOD               201  3 01 25 19 07
+71 1000008  *** TEASE DLS ***        60   3 01 25 19 07
+04 566619   INTO STOPSET             7    3 01 25 19 07
+08          8 MIN Spotset                 4 01 25 19 07
+09 1        *** DROP SONG ***        0    3 01 25 19 08
+08          8 MIN Spotset                 4 01 25 19 08
+04 566600   KBKS LEGAL               10   3 01 25 19 08
+03 408772   HIGH HOPES               189  3 01 25 19 08
+71 1000009  *** REJOIN SET UP HOUR T 180  3 01 25 19 08
+03 404857   HAVANA                   213  3 01 25 19 08
+20 0        DIRTY LITTLE SECRET      0    3 01 25 19 08
+71 99999    *** DLS 1 ***            240  3 01 25 19 08
+03 410928   CLOSE TO ME              180  3 01 25 19 08
+09 1        *** DROP SONG ***        0    3 01 25 19 08
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 08
+03 409977   BREATHIN'                180  3 01 25 19 08
+71          VOICETRACK               0    3 01 25 19 08
+03 410682   SUNFLOWER                180  3 01 25 19 08
+71 1000010  *** LET EM KNOW PART 1 * 180  3 01 25 19 08
+09 1        *** DROP SONG ***        0    3 01 25 19 08
+03 403598   I LIKE ME BETTER         196  3 01 25 19 08
+04 566620   UC - LISTENER            8    3 01 25 19 08
+09 1        *** POWER INTRO          0    3 01 25 19 08
+03 3229410  BAD LIAR 1               250  3 01 25 19 08
+71 1000012  *** LET EM KNOW QUICK RE 120  3 01 25 19 08
+03 409505   EASTSIDE                 171  3 01 25 19 08
+71 1000011  *** LET EM KNOW PART 2 * 240  3 01 25 19 08
+03 3228910  ELECTRICITY              230  3 01 25 19 08
+09 1        *** DROP SONG ***        0    3 01 25 19 08
+04 566720   CITY SWEEPERS            6    3 01 25 19 08
+03 707592   LOSE YOURSELF            264  3 01 25 19 08
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 08
+03 410607   WITHOUT ME               200  3 01 25 19 08
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 08
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 08
+03 411771   LOST IN THE FIRE         210  3 01 25 19 08
+09 1        *** DROP SONG ***        0    3 01 25 19 08
+04 566705   KISS SFX                 2    3 01 25 19 08
+03 408570   BACK TO YOU              206  3 01 25 19 08
+71 1000008  *** TEASE DLS ***        60   3 01 25 19 08
+04 566619   INTO STOPSET             7    3 01 25 19 08
+08          8 MIN Spotset                 4 01 25 19 08
+08          5 MIN Spotset                 4 01 25 19 09
+04 566600   KBKS LEGAL               10   3 01 25 19 09
+03 410866   RUIN MY LIFE             187  3 01 25 19 09
+71 1000013  *** REJOIN - TALK - TEAS 180  3 01 25 19 09
+09 1        *** DROP SONG ***        0    3 01 25 19 09
+03 3227495  HIM & I                  210  3 01 25 19 09
+20 0        DIRTY LITTLE SECRET      0    3 01 25 19 09
+71 1000003  *** DLS 2 ***            240  3 01 25 19 09
+03 410329   THIS FEELING             195  3 01 25 19 09
+71 1000014  *** GOODBYE ***          180  3 01 25 19 09
+03 408772   HIGH HOPES               189  3 01 25 19 09
+71          VOICETRACK               0    3 01 25 19 09
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 09
+03 407456   TEQUILA                  210  3 01 25 19 09
+04 566620   UC - LISTENER            8    3 01 25 19 09
+03 3228130  LIE                      215  3 01 25 19 09
+04 566619   INTO STOPSET             7    3 01 25 19 09
+08          8 MIN Spotset                 4 01 25 19 09
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 09
+03 410682   SUNFLOWER                180  3 01 25 19 09
+09 1        *** DROP SONG ***        0    3 01 25 19 09
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 09
+03 411070   THANK U, NEXT            206  3 01 25 19 09
+71          VOICETRACK               0    3 01 25 19 09
+03 3229409  BAD LIAR 2               254  3 01 25 19 09
+09 1        *** DROP SONG ***        0    3 01 25 19 09
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 09
+03 405549   GOOD OLD DAYS            236  3 01 25 19 09
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 09
+03 3228798  HAPPIER                  223  3 01 25 19 09
+71          VOICETRACK               0    3 01 25 19 09
+09 2        ********* EXCLUSIVE **** 0    3 01 25 19 09
+03 411420   NOTHING BREAKS LIKE A HE 210  3 01 25 19 09
+04 566705   KISS SFX                 2    3 01 25 19 09
+03 409977   BREATHIN'                180  3 01 25 19 09
+04 566619   INTO STOPSET             7    3 01 25 19 09
+08          8 MIN Spotset                 4 01 25 19 09
+04 566600   KBKS LEGAL               10   3 01 25 19 10
+03 410607   WITHOUT ME               200  3 01 25 19 10
+71          VOICETRACK               0    3 01 25 19 10
+03 411771   LOST IN THE FIRE         210  3 01 25 19 10
+04 566620   UC - LISTENER            8    3 01 25 19 10
+03 702545   SEXYBACK                 240  3 01 25 19 10
+04 566720   CITY SWEEPERS            6    3 01 25 19 10
+03 3229055  BETTER                   217  3 01 25 19 10
+71          VOICETRACK               0    3 01 25 19 10
+03 408772   HIGH HOPES               189  3 01 25 19 10
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 10
+03 408817   GIRLS LIKE YOU           234  3 01 25 19 10
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 10
+04 566619   INTO STOPSET             7    3 01 25 19 10
+08          8 MIN Spotset                 4 01 25 19 10
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 10
+09 1        *** POWER INTRO          0    3 01 25 19 10
+03 3229410  BAD LIAR 1               250  3 01 25 19 10
+04 566620   UC - LISTENER            8    3 01 25 19 10
+03 3200045  YEAH                     239  3 01 25 19 10
+71          VOICETRACK               0    3 01 25 19 10
+03 410928   CLOSE TO ME              180  3 01 25 19 10
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 10
+03 410682   SUNFLOWER                180  3 01 25 19 10
+04 566705   KISS SFX                 2    3 01 25 19 10
+03 408348   YOUNGBLOOD               201  3 01 25 19 10
+71          VOICETRACK               0    3 01 25 19 10
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 10
+03 407081   BODY                     180  3 01 25 19 10
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 10
+03 404547   BrOKEN                   200  3 01 25 19 10
+04 566620   UC - LISTENER            8    3 01 25 19 10
+03 406059   WOLVES                   193  3 01 25 19 10
+04 566619   INTO STOPSET             7    3 01 25 19 10
+08          8 MIN Spotset                 4 01 25 19 10
+08          8 MIN Spotset                 4 01 25 19 11
+04 566600   KBKS LEGAL               10   3 01 25 19 11
+03 409505   EASTSIDE                 171  3 01 25 19 11
+04 566720   CITY SWEEPERS            6    3 01 25 19 11
+09 1        *** POWER INTRO          0    3 01 25 19 11
+03 3227857  DELICATE                 235  3 01 25 19 11
+71          VOICETRACK               0    3 01 25 19 11
+03 3228910  ELECTRICITY              230  3 01 25 19 11
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 11
+03 3207936  THE MONSTER              257  3 01 25 19 11
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 11
+03 410607   WITHOUT ME               200  3 01 25 19 11
+71          VOICETRACK               0    3 01 25 19 11
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 11
+03 411777   DANCING WITH A STRANGER  210  3 01 25 19 11
+04 566620   UC - LISTENER            8    3 01 25 19 11
+03 3226207  SORRY NOT SORRY          207  3 01 25 19 11
+04 566619   INTO STOPSET             7    3 01 25 19 11
+08          8 MIN Spotset                 4 01 25 19 11
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 11
+03 410682   SUNFLOWER                180  3 01 25 19 11
+71          VOICETRACK               0    3 01 25 19 11
+09 1        *** POWER INTRO          0    3 01 25 19 11
+03 3229409  BAD LIAR 2               254  3 01 25 19 11
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 11
+03 409977   BREATHIN'                180  3 01 25 19 11
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 11
+03 408772   HIGH HOPES               189  3 01 25 19 11
+71          VOICETRACK               0    3 01 25 19 11
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 11
+03 3228872  BE ALRIGHT               203  3 01 25 19 11
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 11
+03 883730   STITCHES                 212  3 01 25 19 11
+71          VOICETRACK               0    3 01 25 19 11
+03 410329   THIS FEELING             195  3 01 25 19 11
+04 566705   KISS SFX                 2    3 01 25 19 11
+03 708439   ONLY GIRL (IN THE WORLD) 235  3 01 25 19 11
+04 566600   KBKS LEGAL               10   3 01 25 19 12
+03 3228798  HAPPIER                  223  3 01 25 19 12
+71          VOICETRACK               0    3 01 25 19 12
+03 411568   TAKI TAKI                210  3 01 25 19 12
+04 566620   UC - LISTENER            8    3 01 25 19 12
+03 411070   THANK U, NEXT            206  3 01 25 19 12
+71          VOICETRACK               0    3 01 25 19 12
+09 2        ********* EXCLUSIVE **** 0    3 01 25 19 12
+03 411420   NOTHING BREAKS LIKE A HE 210  3 01 25 19 12
+04 566720   CITY SWEEPERS            6    3 01 25 19 12
+03 3228381  BETTER NOW               198  3 01 25 19 12
+71          VOICETRACK               0    3 01 25 19 12
+03 410928   CLOSE TO ME              180  3 01 25 19 12
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 12
+03 407487   LOVE LIES                198  3 01 25 19 12
+04 566619   INTO STOPSET             7    3 01 25 19 12
+08          8 MIN Spotset                 4 01 25 19 12
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 12
+03 410607   WITHOUT ME               200  3 01 25 19 12
+71          VOICETRACK               0    3 01 25 19 12
+09 1        *** POWER INTRO          0    3 01 25 19 12
+03 3229410  BAD LIAR 1               250  3 01 25 19 12
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 12
+03 707785   DEAD AND GONE            230  3 01 25 19 12
+04 566620   UC - LISTENER            8    3 01 25 19 12
+03 408772   HIGH HOPES               189  3 01 25 19 12
+71          VOICETRACK               0    3 01 25 19 12
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 12
+03 411771   LOST IN THE FIRE         210  3 01 25 19 12
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 12
+03 403598   I LIKE ME BETTER         196  3 01 25 19 12
+04 566620   UC - LISTENER            8    3 01 25 19 12
+03 3228910  ELECTRICITY              230  3 01 25 19 12
+04 566705   KISS SFX                 2    3 01 25 19 12
+03 885809   THE HILLS                242  3 01 25 19 12
+04 566619   INTO STOPSET             7    3 01 25 19 12
+08          8 MIN Spotset                 4 01 25 19 12
+08          5 MIN Spotset                 4 01 25 19 13
+04 566600   KBKS LEGAL               10   3 01 25 19 13
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 13
+03 410866   RUIN MY LIFE             187  3 01 25 19 13
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 13
+03 893251   MERCY                    205  3 01 25 19 13
+71          VOICETRACK               0    3 01 25 19 13
+03 410329   THIS FEELING             195  3 01 25 19 13
+04 566620   UC - LISTENER            8    3 01 25 19 13
+03 410682   SUNFLOWER                180  3 01 25 19 13
+71          VOICETRACK               0    3 01 25 19 13
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 13
+03 407456   TEQUILA                  210  3 01 25 19 13
+04 566720   CITY SWEEPERS            6    3 01 25 19 13
+03 408348   YOUNGBLOOD               201  3 01 25 19 13
+04 566619   INTO STOPSET             7    3 01 25 19 13
+08          8 MIN Spotset                 4 01 25 19 13
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 13
+03 409505   EASTSIDE                 171  3 01 25 19 13
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 13
+03 408570   BACK TO YOU              206  3 01 25 19 13
+71          VOICETRACK               0    3 01 25 19 13
+09 1        *** POWER INTRO          0    3 01 25 19 13
+03 3229409  BAD LIAR 2               254  3 01 25 19 13
+04 566705   KISS SFX                 2    3 01 25 19 13
+03 409977   BREATHIN'                180  3 01 25 19 13
+04 566620   UC - LISTENER            8    3 01 25 19 13
+03 410607   WITHOUT ME               200  3 01 25 19 13
+71          VOICETRACK               0    3 01 25 19 13
+03 3229055  BETTER                   217  3 01 25 19 13
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 13
+03 3225244  ATTENTION                200  3 01 25 19 13
+04 566619   INTO STOPSET             7    3 01 25 19 13
+08          8 MIN Spotset                 4 01 25 19 13
+08          5 MIN Spotset                 4 01 25 19 14
+04 566600   KBKS LEGAL               10   3 01 25 19 14
+03 408772   HIGH HOPES               189  3 01 25 19 14
+71          VOICETRACK               0    3 01 25 19 14
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 14
+03 411771   LOST IN THE FIRE         210  3 01 25 19 14
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 14
+03 700728   TOXIC                    197  3 01 25 19 14
+04 566705   KISS SFX                 2    3 01 25 19 14
+03 3228910  ELECTRICITY              230  3 01 25 19 14
+71          VOICETRACK               0    3 01 25 19 14
+03 410682   SUNFLOWER                180  3 01 25 19 14
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 14
+03 3222001  SIDE TO SIDE             230  3 01 25 19 14
+04 566619   INTO STOPSET             7    3 01 25 19 14
+08          8 MIN Spotset                 4 01 25 19 14
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 14
+09 1        *** POWER INTRO          0    3 01 25 19 14
+03 3229410  BAD LIAR 1               250  3 01 25 19 14
+04 566620   UC - LISTENER            8    3 01 25 19 14
+03 3228130  LIE                      215  3 01 25 19 14
+71          VOICETRACK               0    3 01 25 19 14
+03 410928   CLOSE TO ME              180  3 01 25 19 14
+04 566720   CITY SWEEPERS            6    3 01 25 19 14
+03 3228798  HAPPIER                  223  3 01 25 19 14
+71          VOICETRACK               0    3 01 25 19 14
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 14
+03 407081   BODY                     180  3 01 25 19 14
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 14
+03 409977   BREATHIN'                180  3 01 25 19 14
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 14
+03 885104   RIDE                     209  3 01 25 19 14
+04 566619   INTO STOPSET             7    3 01 25 19 14
+08          8 MIN Spotset                 4 01 25 19 14
+04 566600   KBKS LEGAL               10   3 01 25 19 15
+03 410607   WITHOUT ME               200  3 01 25 19 15
+04 566620   UC - LISTENER            8    3 01 25 19 15
+03 408817   GIRLS LIKE YOU           234  3 01 25 19 15
+71          VOICETRACK               0    3 01 25 19 15
+09 2        ********* EXCLUSIVE **** 0    3 01 25 19 15
+03 411420   NOTHING BREAKS LIKE A HE 210  3 01 25 19 15
+04 566705   KISS SFX                 2    3 01 25 19 15
+03 408772   HIGH HOPES               189  3 01 25 19 15
+71          VOICETRACK               0    3 01 25 19 15
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 15
+03 411777   DANCING WITH A STRANGER  210  3 01 25 19 15
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 15
+03 880244   UPTOWN FUNK!             230  3 01 25 19 15
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 15
+03 408348   YOUNGBLOOD               201  3 01 25 19 15
+04 566619   INTO STOPSET             7    3 01 25 19 15
+08          8 MIN Spotset                 4 01 25 19 15
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 15
+03 410682   SUNFLOWER                180  3 01 25 19 15
+71          VOICETRACK               0    3 01 25 19 15
+09 1        *** POWER INTRO          0    3 01 25 19 15
+03 3229409  BAD LIAR 2               254  3 01 25 19 15
+04 566720   CITY SWEEPERS            6    3 01 25 19 15
+03 411070   THANK U, NEXT            206  3 01 25 19 15
+71          VOICETRACK               0    3 01 25 19 15
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 15
+03 3228872  BE ALRIGHT               203  3 01 25 19 15
+04 566620   UC - LISTENER            8    3 01 25 19 15
+03 708310   LOVE THE WAY YOU LIE     262  3 01 25 19 15
+71          VOICETRACK               0    3 01 25 19 15
+03 410329   THIS FEELING             195  3 01 25 19 15
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 15
+03 404547   BrOKEN                   200  3 01 25 19 15
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 15
+03 726506   ROYALS                   214  3 01 25 19 15
+04 566619   INTO STOPSET             7    3 01 25 19 15
+08          8 MIN Spotset                 4 01 25 19 15
+08          8 MIN Spotset                 4 01 25 19 16
+04 566600   KBKS LEGAL               10   3 01 25 19 16
+03 883896   STRESSED OUT             195  3 01 25 19 16
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 16
+03 409505   EASTSIDE                 171  3 01 25 19 16
+71          VOICETRACK               0    3 01 25 19 16
+03 410928   CLOSE TO ME              180  3 01 25 19 16
+04 566705   KISS SFX                 2    3 01 25 19 16
+09 1        *** POWER INTRO          0    3 01 25 19 16
+03 3227857  DELICATE                 235  3 01 25 19 16
+71          VOICETRACK               0    3 01 25 19 16
+03 411568   TAKI TAKI                210  3 01 25 19 16
+04 566620   UC - LISTENER            8    3 01 25 19 16
+03 408348   YOUNGBLOOD               201  3 01 25 19 16
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 16
+03 410607   WITHOUT ME               200  3 01 25 19 16
+71          VOICETRACK               0    3 01 25 19 16
+03 3229055  BETTER                   217  3 01 25 19 16
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 16
+03 401536   STAY                     209  3 01 25 19 16
+71          VOICETRACK               0    3 01 25 19 16
+09 1        *** POWER INTRO          0    3 01 25 19 16
+03 3229410  BAD LIAR 1               250  3 01 25 19 16
+04 566720   CITY SWEEPERS            6    3 01 25 19 16
+03 3228130  LIE                      215  3 01 25 19 16
+04 566620   UC - LISTENER            8    3 01 25 19 16
+03 408772   HIGH HOPES               189  3 01 25 19 16
+71          VOICETRACK               0    3 01 25 19 16
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 16
+03 411771   LOST IN THE FIRE         210  3 01 25 19 16
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 16
+03 3226838  PERFECT                  259  3 01 25 19 16
+04 566705   KISS SFX                 2    3 01 25 19 16
+03 410682   SUNFLOWER                180  3 01 25 19 16
+71          VOICETRACK               0    3 01 25 19 16
+03 3228910  ELECTRICITY              230  3 01 25 19 16
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 16
+03 403598   I LIKE ME BETTER         196  3 01 25 19 16
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 16
+04 566600   KBKS LEGAL               10   3 01 25 19 17
+03 3228798  HAPPIER                  223  3 01 25 19 17
+71          VOICETRACK               0    3 01 25 19 17
+09 2        ********* EXCLUSIVE **** 0    3 01 25 19 17
+03 411420   NOTHING BREAKS LIKE A HE 210  3 01 25 19 17
+04 566620   UC - LISTENER            8    3 01 25 19 17
+03 703422   I WRITE SINS NOT TRAGEDI 225  3 01 25 19 17
+71          VOICETRACK               0    3 01 25 19 17
+03 410329   THIS FEELING             195  3 01 25 19 17
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 17
+03 410607   WITHOUT ME               200  3 01 25 19 17
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 17
+03 405444   ROCKSTAR                 185  3 01 25 19 17
+71          VOICETRACK               0    3 01 25 19 17
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 17
+03 407456   TEQUILA                  210  3 01 25 19 17
+04 566720   CITY SWEEPERS            6    3 01 25 19 17
+03 409977   BREATHIN'                180  3 01 25 19 17
+04 566620   UC - LISTENER            8    3 01 25 19 17
+09 1        *** POWER INTRO          0    3 01 25 19 17
+03 3229409  BAD LIAR 2               254  3 01 25 19 17
+71          VOICETRACK               0    3 01 25 19 17
+03 410682   SUNFLOWER                180  3 01 25 19 17
+04 566705   KISS SFX                 2    3 01 25 19 17
+03 881536   TALKING BODY             210  3 01 25 19 17
+71          VOICETRACK               0    3 01 25 19 17
+03 3229055  BETTER                   217  3 01 25 19 17
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 17
+03 408570   BACK TO YOU              206  3 01 25 19 17
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 17
+03 408772   HIGH HOPES               189  3 01 25 19 17
+71          VOICETRACK               0    3 01 25 19 17
+03 410866   RUIN MY LIFE             187  3 01 25 19 17
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 17
+09 1        *** POWER INTRO          0    3 01 25 19 17
+03 3228381  BETTER NOW               198  3 01 25 19 17
+04 566620   UC - LISTENER            8    3 01 25 19 17
+03 701672   SUGAR WE'RE GOING DOWN   215  3 01 25 19 17
+04 566619   INTO STOPSET             7    3 01 25 19 17
+08          5 MIN Spotset                 4 01 25 19 17
+08          4 MIN Spotset                 4 01 25 19 18
+04 566600   KBKS LEGAL               10   3 01 25 19 18
+03 409505   EASTSIDE                 171  3 01 25 19 18
+71          VOICETRACK               0    3 01 25 19 18
+03 3228910  ELECTRICITY              230  3 01 25 19 18
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 18
+03 890234   DANGEROUS WOMAN          210  3 01 25 19 18
+71          VOICETRACK               0    3 01 25 19 18
+03 411771   LOST IN THE FIRE         210  3 01 25 19 18
+04 566619   INTO STOPSET             7    3 01 25 19 18
+03 876174   HABITS                   206  3 01 25 19 18
+71          VOICETRACK               0    3 01 25 19 18
+03 410607   WITHOUT ME               200  3 01 25 19 18
+04 566619   INTO STOPSET             7    3 01 25 19 18
+08          8 MIN Spotset                 4 01 25 19 18
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 18
+09 1        *** POWER INTRO          0    3 01 25 19 18
+03 3229410  BAD LIAR 1               250  3 01 25 19 18
+71          VOICETRACK               0    3 01 25 19 18
+03 3228130  LIE                      215  3 01 25 19 18
+04 566619   INTO STOPSET             7    3 01 25 19 18
+08          8 MIN Spotset                 4 01 25 19 18
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 18
+03 410928   CLOSE TO ME              180  3 01 25 19 18
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 18
+03 408772   HIGH HOPES               189  3 01 25 19 18
+71          VOICETRACK               0    3 01 25 19 18
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 18
+03 407081   BODY                     180  3 01 25 19 18
+04 566720   CITY SWEEPERS            6    3 01 25 19 18
+03 411070   THANK U, NEXT            206  3 01 25 19 18
+04 566600   KBKS LEGAL               10   3 01 25 19 18
+03 410682   SUNFLOWER                180  3 01 25 19 19
+04 566620   UC - LISTENER            8    3 01 25 19 19
+03 408817   GIRLS LIKE YOU           234  3 01 25 19 19
+71          VOICETRACK               0    3 01 25 19 19
+09 2        ********* EXCLUSIVE **** 0    3 01 25 19 19
+03 411420   NOTHING BREAKS LIKE A HE 210  3 01 25 19 19
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 19
+03 3228798  HAPPIER                  223  3 01 25 19 19
+71          VOICETRACK               0    3 01 25 19 19
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 19
+03 411777   DANCING WITH A STRANGER  210  3 01 25 19 19
+04 566705   KISS SFX                 2    3 01 25 19 19
+03 725379   DEMONS                   225  3 01 25 19 19
+71          VOICETRACK               0    3 01 25 19 19
+03 410292   WAKE UP IN THE SKY       210  3 01 25 19 19
+04 566619   INTO STOPSET             7    3 01 25 19 19
+08          8 MIN Spotset                 4 01 25 19 19
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 19
+03 410607   WITHOUT ME               200  3 01 25 19 19
+71          VOICETRACK               0    3 01 25 19 19
+09 1        *** POWER INTRO          0    3 01 25 19 19
+03 3229409  BAD LIAR 2               254  3 01 25 19 19
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 19
+03 403599   NEW RULES                206  3 01 25 19 19
+71          VOICETRACK               0    3 01 25 19 19
+03 410218   SICKO MODE               210  3 01 25 19 19
+04 566620   UC - LISTENER            8    3 01 25 19 19
+03 408348   YOUNGBLOOD               201  3 01 25 19 19
+71          VOICETRACK               0    3 01 25 19 19
+03 410329   THIS FEELING             195  3 01 25 19 19
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 19
+03 404547   BrOKEN                   200  3 01 25 19 19
+04 566720   CITY SWEEPERS            6    3 01 25 19 19
+03 404739   BAD AT LOVE              178  3 01 25 19 19
+71          VOICETRACK               0    3 01 25 19 19
+03 3228910  ELECTRICITY              230  3 01 25 19 19
+04 566705   KISS SFX                 2    3 01 25 19 19
+03 402580   THERE'S NOTHING HOLDIN'  197  3 01 25 19 19
+04 566600   KBKS LEGAL               10   3 01 25 19 19
+03 408772   HIGH HOPES               189  3 01 25 19 20
+71          VOICETRACK               0    3 01 25 19 20
+03 411568   TAKI TAKI                210  3 01 25 19 20
+04 566620   UC - LISTENER            8    3 01 25 19 20
+03 409977   BREATHIN'                180  3 01 25 19 20
+71          VOICETRACK               0    3 01 25 19 20
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 20
+03 411771   LOST IN THE FIRE         210  3 01 25 19 20
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 20
+03 701674   THNKS FR TH MMRS         225  3 01 25 19 20
+71          VOICETRACK               0    3 01 25 19 20
+03 3229055  BETTER                   217  3 01 25 19 20
+04 566619   INTO STOPSET             7    3 01 25 19 20
+08          8 MIN Spotset                 4 01 25 19 20
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 20
+03 410928   CLOSE TO ME              180  3 01 25 19 20
+71          VOICETRACK               0    3 01 25 19 20
+03 410682   SUNFLOWER                180  3 01 25 19 20
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 20
+09 1        *** POWER INTRO          0    3 01 25 19 20
+03 3229410  BAD LIAR 1               250  3 01 25 19 20
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 20
+03 408570   BACK TO YOU              206  3 01 25 19 20
+04 566620   UC - LISTENER            8    3 01 25 19 20
+03 409505   EASTSIDE                 171  3 01 25 19 20
+71          VOICETRACK               0    3 01 25 19 20
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 20
+03 410916   SWEET BUT PSYCHO         210  3 01 25 19 20
+04 566705   KISS SFX                 2    3 01 25 19 20
+03 722576   LIGHT EM UP              187  3 01 25 19 20
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 20
+09 2        ********* EXCLUSIVE **** 0    3 01 25 19 20
+03 411420   NOTHING BREAKS LIKE A HE 210  3 01 25 19 20
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 20
+03 3226902  LET YOU DOWN             202  3 01 25 19 20
+04 566720   CITY SWEEPERS            6    3 01 25 19 20
+03 884924   GOOD FOR YOU REMIX       219  3 01 25 19 20
+04 566600   KBKS LEGAL               10   3 01 25 19 20
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 21
+03 410866   RUIN MY LIFE             187  3 01 25 19 21
+04 566620   UC - LISTENER            8    3 01 25 19 21
+03 707592   LOSE YOURSELF            264  3 01 25 19 21
+71          VOICETRACK               0    3 01 25 19 21
+03 410329   THIS FEELING             195  3 01 25 19 21
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 21
+03 410607   WITHOUT ME               200  3 01 25 19 21
+71          VOICETRACK               0    3 01 25 19 21
+09 1        *** POWER INTRO          0    3 01 25 19 21
+03 3229409  BAD LIAR 2               254  3 01 25 19 21
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 21
+03 411070   THANK U, NEXT            206  3 01 25 19 21
+71          VOICETRACK               0    3 01 25 19 21
+03 410218   SICKO MODE               210  3 01 25 19 21
+04 566619   INTO STOPSET             7    3 01 25 19 21
+08          8 MIN Spotset                 4 01 25 19 21
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 21
+03 408772   HIGH HOPES               189  3 01 25 19 21
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 21
+03 403598   I LIKE ME BETTER         196  3 01 25 19 21
+71          VOICETRACK               0    3 01 25 19 21
+03 410292   WAKE UP IN THE SKY       210  3 01 25 19 21
+04 566620   UC - LISTENER            8    3 01 25 19 21
+03 890148   DON'T LET ME DOWN        204  3 01 25 19 21
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 21
+03 410682   SUNFLOWER                180  3 01 25 19 21
+71          VOICETRACK               0    3 01 25 19 21
+03 3228910  ELECTRICITY              230  3 01 25 19 21
+04 566720   CITY SWEEPERS            6    3 01 25 19 21
+03 409977   BREATHIN'                180  3 01 25 19 21
+04 566619   INTO STOPSET             7    3 01 25 19 21
+08          8 MIN Spotset                 4 01 25 19 21
+04 566600   KBKS LEGAL               10   3 01 25 19 21
+03 3228798  HAPPIER                  223  3 01 25 19 22
+71          VOICETRACK               0    3 01 25 19 22
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 22
+03 411771   LOST IN THE FIRE         210  3 01 25 19 22
+04 566705   KISS SFX                 2    3 01 25 19 22
+03 401393   BELIEVER                 203  3 01 25 19 22
+71          VOICETRACK               0    3 01 25 19 22
+09 2        ********* EXCLUSIVE **** 0    3 01 25 19 22
+03 411420   NOTHING BREAKS LIKE A HE 210  3 01 25 19 22
+04 566620   UC - LISTENER            8    3 01 25 19 22
+03 410607   WITHOUT ME               200  3 01 25 19 22
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 22
+03 407487   LOVE LIES                198  3 01 25 19 22
+71          VOICETRACK               0    3 01 25 19 22
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 22
+03 410916   SWEET BUT PSYCHO         210  3 01 25 19 22
+09 1        *** DROP SONG ***        0    3 01 25 19 22
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 22
+   0        #NAME?                   0    3 01 25 19 22
+03 411070   THANK U, NEXT            206  3 01 25 19 22
+04 566619   INTO STOPSET             7    3 01 25 19 22
+08          5 MIN Spotset                 4 01 25 19 22
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 22
+09 1        *** POWER INTRO          0    3 01 25 19 22
+03 3229410  BAD LIAR 1               250  3 01 25 19 22
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 22
+03 3228264  PSYCHO                   201  3 01 25 19 22
+71          VOICETRACK               0    3 01 25 19 22
+03 410928   CLOSE TO ME              180  3 01 25 19 22
+04 566620   UC - LISTENER            8    3 01 25 19 22
+03 408772   HIGH HOPES               189  3 01 25 19 22
+71          VOICETRACK               0    3 01 25 19 22
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 22
+03 407081   BODY                     180  3 01 25 19 22
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 22
+03 408348   YOUNGBLOOD               201  3 01 25 19 22
+09 1        *** DROP SONG ***        0    3 01 25 19 22
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 22
+   0        #NAME?                   0    3 01 25 19 22
+03 3228910  ELECTRICITY              230  3 01 25 19 22
+09 1        *** DROP SONG ***        0    3 01 25 19 22
+04 566705   KISS SFX                 2    3 01 25 19 22
+03 408570   BACK TO YOU              206  3 01 25 19 22
+04 566619   INTO STOPSET             7    3 01 25 19 22
+08          5 MIN Spotset                 4 01 25 19 22
+04 566600   KBKS LEGAL               10   3 01 25 19 22
+03 410682   SUNFLOWER                180  3 01 25 19 23
+04 566720   CITY SWEEPERS            6    3 01 25 19 23
+03 404547   BrOKEN                   200  3 01 25 19 23
+71          VOICETRACK               0    3 01 25 19 23
+03 410292   WAKE UP IN THE SKY       210  3 01 25 19 23
+04 566620   UC - LISTENER            8    3 01 25 19 23
+03 409505   EASTSIDE                 171  3 01 25 19 23
+71          VOICETRACK               0    3 01 25 19 23
+09 1        ********* EXCLUSIVE NEW  0    3 01 25 19 23
+03 411777   DANCING WITH A STRANGER  210  3 01 25 19 23
+09 1        *** DROP SONG ***        0    3 01 25 19 23
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 23
+   0        #NAME?                   0    3 01 25 19 23
+03 409977   BREATHIN'                180  3 01 25 19 23
+09 1        *** DROP SONG ***        0    3 01 25 19 23
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 23
+03 886721   SAME OLD LOVE            225  3 01 25 19 23
+71          VOICETRACK               0    3 01 25 19 23
+03 3229055  BETTER                   217  3 01 25 19 23
+04 566619   INTO STOPSET             7    3 01 25 19 23
+08          8 MIN Spotset                 4 01 25 19 23
+04 566616   REJOINS - UC  Overlay    7    3 01 25 19 23
+03 410607   WITHOUT ME               200  3 01 25 19 23
+71          VOICETRACK               0    3 01 25 19 23
+09 1        *** POWER INTRO          0    3 01 25 19 23
+03 3229409  BAD LIAR 2               254  3 01 25 19 23
+04 566708   SOUNDS LIKE SEATTLE      6    3 01 25 19 23
+03 411070   THANK U, NEXT            206  3 01 25 19 23
+71          VOICETRACK               0    3 01 25 19 23
+03 410218   SICKO MODE               210  3 01 25 19 23
+04 566620   UC - LISTENER            8    3 01 25 19 23
+03 883730   STITCHES                 212  3 01 25 19 23
+71          VOICETRACK               0    3 01 25 19 23
+03 410329   THIS FEELING             195  3 01 25 19 23
+04 566701   STABS 1061 - KAIJA       2    3 01 25 19 23
+   0        #NAME?                   0    3 01 25 19 23
+09 2        ********* EXCLUSIVE **** 0    3 01 25 19 23
+03 411420   NOTHING BREAKS LIKE A HE 210  3 01 25 19 23
+09 1        *** DROP SONG ***        0    3 01 25 19 23
+04 566700   STABS 1061 - JOSH        2    3 01 25 19 23
+03 408817   GIRLS LIKE YOU           234  3 01 25 19 23
+04 566619   INTO STOPSET             7    3 01 25 19 23
+08          8 MIN Spotset                 4 01 25 19 23
+04 566600   KBKS LEGAL               10   3 01 25 19 23
